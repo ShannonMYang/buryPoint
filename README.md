@@ -171,3 +171,9 @@
     [self dix_popViewControllerAnimated:animated];
 }
 ```
+
+---
+
+##### 当你建好一个Demo之后，就能在后台看到如下打印：
+<div align = center><img width = "436" height = "869" src = "https://github.com/ShannonMYang/buryPoint/raw/master/imagesFile/log.jpg"></div>
+<div align = center><img width = "436" height = "869" src = "https://github.com/ShannonMYang/buryPoint/raw/master/imagesFile/view.jpg"></div>
