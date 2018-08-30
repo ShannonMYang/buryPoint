@@ -2,8 +2,8 @@
 //  ViewController.m
 //  buryPoint
 //
-//  Created by 贾永凯 on 2018/8/28.
-//  Copyright © 2018年 贾永凯. All rights reserved.
+//  Created by Shannon MYang on 2018/8/28.
+//  Copyright © 2018年 Shannon MYang. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -16,14 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
 }
-
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
-
 
 @end

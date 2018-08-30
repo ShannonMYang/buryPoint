@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  buryPoint
 //
-//  Created by 贾永凯 on 2018/8/28.
-//  Copyright © 2018年 贾永凯. All rights reserved.
+//  Created by Shannon MYang on 2018/8/28.
+//  Copyright © 2018年 Shannon MYang. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -16,7 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
     return YES;
 }
 

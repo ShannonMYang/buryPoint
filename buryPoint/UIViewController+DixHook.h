@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UIViewController+DixHook.h
 //  buryPoint
 //
 //  Created by Shannon MYang on 2018/8/28.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface UIViewController (DixHook)
 
 @end
-

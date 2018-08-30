@@ -13,6 +13,9 @@
 		2E31173821358B8800E8A5F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E31173721358B8800E8A5F1 /* Assets.xcassets */; };
 		2E31173B21358B8800E8A5F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E31173921358B8800E8A5F1 /* LaunchScreen.storyboard */; };
 		2E31173E21358B8800E8A5F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E31173D21358B8800E8A5F1 /* main.m */; };
+		2E31174921358C0C00E8A5F1 /* UIApplication+DixHook.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E31174821358C0C00E8A5F1 /* UIApplication+DixHook.m */; };
+		2E31174C21358C6000E8A5F1 /* UIViewController+DixHook.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E31174B21358C6000E8A5F1 /* UIViewController+DixHook.m */; };
+		2E31174F21358C8C00E8A5F1 /* UINavigationController+DixHook.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E31174E21358C8C00E8A5F1 /* UINavigationController+DixHook.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,12 @@
 		2E31173A21358B8800E8A5F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E31173C21358B8800E8A5F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E31173D21358B8800E8A5F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2E31174721358C0C00E8A5F1 /* UIApplication+DixHook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIApplication+DixHook.h"; sourceTree = "<group>"; };
+		2E31174821358C0C00E8A5F1 /* UIApplication+DixHook.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+DixHook.m"; sourceTree = "<group>"; };
+		2E31174A21358C6000E8A5F1 /* UIViewController+DixHook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+DixHook.h"; sourceTree = "<group>"; };
+		2E31174B21358C6000E8A5F1 /* UIViewController+DixHook.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+DixHook.m"; sourceTree = "<group>"; };
+		2E31174D21358C8C00E8A5F1 /* UINavigationController+DixHook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+DixHook.h"; sourceTree = "<group>"; };
+		2E31174E21358C8C00E8A5F1 /* UINavigationController+DixHook.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+DixHook.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +69,12 @@
 			children = (
 				2E31172E21358B8600E8A5F1 /* AppDelegate.h */,
 				2E31172F21358B8600E8A5F1 /* AppDelegate.m */,
+				2E31174721358C0C00E8A5F1 /* UIApplication+DixHook.h */,
+				2E31174821358C0C00E8A5F1 /* UIApplication+DixHook.m */,
+				2E31174A21358C6000E8A5F1 /* UIViewController+DixHook.h */,
+				2E31174B21358C6000E8A5F1 /* UIViewController+DixHook.m */,
+				2E31174D21358C8C00E8A5F1 /* UINavigationController+DixHook.h */,
+				2E31174E21358C8C00E8A5F1 /* UINavigationController+DixHook.m */,
 				2E31173121358B8700E8A5F1 /* ViewController.h */,
 				2E31173221358B8700E8A5F1 /* ViewController.m */,
 				2E31173421358B8700E8A5F1 /* Main.storyboard */,
@@ -141,7 +156,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E31174F21358C8C00E8A5F1 /* UINavigationController+DixHook.m in Sources */,
 				2E31173321358B8700E8A5F1 /* ViewController.m in Sources */,
+				2E31174921358C0C00E8A5F1 /* UIApplication+DixHook.m in Sources */,
+				2E31174C21358C6000E8A5F1 /* UIViewController+DixHook.m in Sources */,
 				2E31173E21358B8800E8A5F1 /* main.m in Sources */,
 				2E31173021358B8700E8A5F1 /* AppDelegate.m in Sources */,
 			);
