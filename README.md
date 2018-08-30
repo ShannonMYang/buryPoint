@@ -175,5 +175,5 @@
 ---
 
 ##### 当你建好一个Demo之后，就能在后台看到如下打印：
-<div align = center><img width = "436" height = "869" src = "https://github.com/ShannonMYang/buryPoint/raw/master/imagesFile/log.jpg"></div>
-<div align = center><img width = "436" height = "869" src = "https://github.com/ShannonMYang/buryPoint/raw/master/imagesFile/view.jpg"></div>
+<div align = center><img width = "633.5" height = "442" src = "https://github.com/ShannonMYang/buryPoint/raw/master/imagesFile/log.jpg"></div>
+<div align = center><img width = "635" height = "120" src = "https://github.com/ShannonMYang/buryPoint/raw/master/imagesFile/view.jpg"></div>
